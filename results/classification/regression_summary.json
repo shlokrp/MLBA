@@ -1,0 +1,22 @@
+{
+    "linear_regression": {
+        "mae": 3.82,
+        "rmse": 5.11
+    },
+    "knn_regressor": {
+        "mae": 4.27,
+        "rmse": 5.63
+    },
+    "random_forest": {
+        "mae": 2.91,
+        "rmse": 4.18
+    },
+    "gradient_boosting": {
+        "mae": 2.74,
+        "rmse": 3.97
+    },
+    "xgboost_regressor": {
+        "mae": 2.51,
+        "rmse": 3.62
+    }
+}
